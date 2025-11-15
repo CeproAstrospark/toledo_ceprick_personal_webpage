@@ -1,0 +1,32 @@
+html {
+  background-color: #3e0542;
+}
+
+.Header {
+  font-family: 'Comic sans MS';
+  background: #9a478f;
+  color: #f0cbe6;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.Contact {
+  font-family: 'Comic sans MS';
+  background: #9a478f;
+  color: #f0cbe6;
+  padding: 10px;
+  text-align: left;
+  margin: 20px 200px;
+  border-radius: 5px;
+}
+
+.form {
+  font-family: 'Comic sans MS';
+  background: #9a478f;
+  color: #f0cbe6;
+  padding: 10px;
+  text-align: center;
+  margin: 20px 200px;
+  border-radius: 5px;
+}
